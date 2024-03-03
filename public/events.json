@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "event_name": "CorporateTech Expo 2024",
+        "event_price": 499.99,
+        "event_image": "https://img.freepik.com/free-photo/portrait-business-executives-participating-business-meeting-conference-center_107420-63840.jpg?w=996&t=st=1709370306~exp=1709370906~hmac=902b540a78ab42883269b77e7d25fecb363608a6206c19824a9bffe2e48fd8a2",
+        "event_short_description": "Explore the latest in technology and innovation.",
+        "event_long_description": "Join us at the CorporateTech Expo 2024, where industry leaders, tech enthusiasts, and innovators come together to explore the cutting-edge advancements in technology. From AI and robotics to cybersecurity and cloud computing, this expo is a must-attend for anyone looking to stay ahead in the dynamic world of corporate tech.",
+        "event_place": "Dhaka Convention Center",
+        "event_host_name": "Elon Musk"
+    },
+    {
+        "id": 2,
+        "event_name": "Executive Leadership Summit",
+        "event_price": 299.99,
+        "event_image": "https://img.freepik.com/free-photo/female-business-executive-giving-speech_107420-63798.jpg?w=996&t=st=1709370349~exp=1709370949~hmac=e36b7af4a357a3d4823392034a37037b66643b6ce65b9d6a57d73ae139807674",
+        "event_short_description": "Unlock the secrets of effective leadership in today's business world.",
+        "event_long_description": "The Executive Leadership Symposium is a premier event for business leaders aiming to enhance their leadership skills. Join us for insightful sessions led by renowned leadership experts and learn strategies to navigate the complexities of modern business. This symposium is your opportunity to connect with like-minded executives and foster a culture of excellence within your organization.",
+        "event_place": "Chittagong Grand Ballroom",
+        "event_host_name": "Oprah Winfrey"
+    },
+    {
+        "id": 3,
+        "event_name": "Financial Strategies Summit",
+        "event_price": 399.99,
+        "event_image": "https://img.freepik.com/free-photo/business-executives-participating-business-meeting_107420-63850.jpg?w=996&t=st=1709370378~exp=1709370978~hmac=aee9538c3c77e4235e3d2c0448d06e635616cb21e93d316f089dfb0638901928",
+        "event_short_description": "Gain insights into financial trends and strategies for success.",
+        "event_long_description": "The Financial Strategies Summit brings together financial experts and industry professionals to discuss the latest trends and strategies for financial success. Explore topics such as investment strategies, risk management, and financial planning. Whether you're a seasoned financial professional or a business owner, this summit provides valuable insights to help you navigate the financial landscape with confidence.",
+        "event_place": "Dhaka Financial District Auditorium",
+        "event_host_name": "Warren Buffett"
+    },
+    {
+        "id": 4,
+        "event_name": "Innovation Hero Conference",
+        "event_price": 349.99,
+        "event_image": "https://img.freepik.com/free-photo/female-business-executive-giving-speech_107420-63787.jpg?w=996&t=st=1709370359~exp=1709370959~hmac=aa1d127ba6fd613d4100299160e8c33ffbbf456716c119789deb3a8f5dbd9a9b",
+        "event_short_description": "Witness groundbreaking innovations from leading companies.",
+        "event_long_description": "The Innovation Excellence Conference is a gathering of visionaries and disruptors pushing the boundaries of innovation. Attendees will have the opportunity to witness groundbreaking technologies, hear from industry pioneers, and engage in discussions that spark creativity. Join us in the beautiful city of Sylhet to be part of a transformative experience that will inspire innovation within your organization.",
+        "event_place": "Sylhet Innovation Hub",
+        "event_host_name": "Steve Jobs"
+    },
+    {
+        "id": 5,
+        "event_name": "Strategic Marketing Summit",
+        "event_price": 299.99,
+        "event_image": "https://img.freepik.com/free-photo/male-business-executive-giving-speech_107420-63781.jpg?w=996&t=st=1709370437~exp=1709371037~hmac=302674e32efae22ed95ef46b210802e359f8d824367a5c3cb9c7e78dead74863",
+        "event_short_description": "Explore the latest trends and strategies in marketing excellence.",
+        "event_long_description": "The Strategic Marketing Summit is a comprehensive exploration of the latest trends, tools, and strategies in the dynamic world of marketing. From digital marketing to brand management, this summit covers it all. Join industry experts, marketing gurus, and fellow professionals in Dhaka's Marketing Center Plaza for a two-day deep dive into the ever-evolving field of strategic marketing.",
+        "event_place": "Dhaka Marketing Center Plaza",
+        "event_host_name": "Sheryl Sandberg"
+    },
+    {
+        "id": 6,
+        "event_name": "Noakhali Business Summit",
+        "event_price": 379.99,
+        "event_image": "https://img.freepik.com/free-photo/male-business-executive-receiving-award_107420-63805.jpg?w=996&t=st=1709370468~exp=1709371068~hmac=f61fd42363208ebb945a9c027a80d37b8122fd6a058bfc5f4fa02a4686be0aea",
+        "event_short_description": "Explore business opportunities in the heart of Noakhali.",
+        "event_long_description": "The Noakhali Business Summit is a unique opportunity to explore business prospects in the scenic surroundings of Noakhali. Join us for insightful sessions, networking opportunities, and a chance to connect with industry leaders. Whether you're a local entrepreneur or a business executive looking to expand into new territories, this summit offers valuable insights and connections.",
+        "event_place": "Noakhali Convention Center",
+        "event_host_name": "Richard Branson"
+    }
+]
